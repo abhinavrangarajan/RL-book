@@ -53,7 +53,7 @@ class Distribution(ABC, Generic[A]):
         '''Apply a function that returns a distribution to the outcomes of
         this distribution. This lets us express *dependent random
         variables*.
-
+    
         '''
         def sample():
             a = self.sample()

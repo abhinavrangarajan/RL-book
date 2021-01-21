@@ -1,5 +1,5 @@
 import sys
-sys.path.append("..")
+sys.path.append("../rl/")
 
 from markov_process import FiniteMarkovProcess, FiniteMarkovRewardProcess
 from distribution import Choose

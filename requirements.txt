@@ -70,3 +70,4 @@ urllib3==1.25.10
 wcwidth==0.1.9
 webencodings==0.5.1
 widgetsnbextension==3.5.1
+jupyterlab
